@@ -38,3 +38,32 @@
 ![image](https://github.com/user-attachments/assets/9b69a5e0-224e-40ae-b03f-0172c163406f)
 
 ![image](https://github.com/user-attachments/assets/5de6dbae-8240-4566-a45c-7b899e5ea9aa)
+
+---
+
+# 5.策略模式和工厂方法模式
+
+![image](https://github.com/user-attachments/assets/fb9a5bf3-6a59-48f9-9667-8219b23590fd)
+
+![image](https://github.com/user-attachments/assets/aeaa3e8b-a2ee-43a8-b13c-d6e79f3e9050)
+
+![image](https://github.com/user-attachments/assets/52308f57-e8a5-4efc-9344-323c4d878488)
+
+![image](https://github.com/user-attachments/assets/47f4e747-9d5f-473a-8d73-036359ff2391)
+
+---
+
+# 6.责任链模式
+
+![image](https://github.com/user-attachments/assets/0fab83dc-eef3-4233-9d2d-e9aae184537f)
+
+![image](https://github.com/user-attachments/assets/ee57f46d-63e4-4742-9c53-259ab860bc2e)
+
+![image](https://github.com/user-attachments/assets/5bb0897b-a046-47ce-ad26-f61fbbef1bbd)
+
+![image](https://github.com/user-attachments/assets/ead36520-3f8e-4d76-b67f-3ec18fa5142e)
+
+---
+
+# 7.单点登录如何实现
+
