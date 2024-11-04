@@ -95,6 +95,50 @@
 
 ![image](https://github.com/user-attachments/assets/437a4414-8606-4a56-9d4d-64a408d20285)
 
-![image](https://github.com/user-attachments/assets/03ac94b9-2832-4323-864e-3a8752a8a05e)
-
 ![image](https://github.com/user-attachments/assets/605e23f8-e73d-435d-bcd3-8283e462fe51)
+
+---
+
+# 10.遇到了哪些比较棘手的问题，怎么解决的？
+
+![image](https://github.com/user-attachments/assets/44418aa5-bf14-410e-b0ce-2e694c96f3d7)
+
+---
+
+# 11.项目中日志怎么采集
+
+![image](https://github.com/user-attachments/assets/c83e1406-764e-4ec6-84c0-91653428e75f)
+
+![image](https://github.com/user-attachments/assets/9001a74b-d856-4680-825d-ac8a783bec58)
+
+![image](https://github.com/user-attachments/assets/945d162f-7182-4cb5-96d6-5e4436c84316)
+
+---
+
+# 12.常见日志的命令
+
+![image](https://github.com/user-attachments/assets/def12d8f-ac40-40a4-bc7b-c99d1552c39b)
+
+![image](https://github.com/user-attachments/assets/f71a873f-cae6-446c-ac0f-4fbb631c052c)
+
+---
+
+# 13.生产问题怎么排查
+
+![image](https://github.com/user-attachments/assets/113fc385-ad4d-4090-b311-e3e7d014777a)
+
+![image](https://github.com/user-attachments/assets/43d952ad-a0e8-4775-99bf-74da29257c58)
+
+![image](https://github.com/user-attachments/assets/a6b3f426-8052-4d27-b951-da8596f0a828)
+
+![image](https://github.com/user-attachments/assets/b0902320-ec8d-4687-beec-ba6f9aa2f1f4)
+
+![image](https://github.com/user-attachments/assets/f28043ca-d521-4576-9e15-bc78ffe56f22)
+
+---
+
+# 14.怎么快速定位系统的瓶颈
+
+![image](https://github.com/user-attachments/assets/187ed003-954b-4b96-9ca4-746b1037a651)
+
+![image](https://github.com/user-attachments/assets/cfb17e9b-0186-40e5-866e-8f38c20f731a)
