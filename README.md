@@ -67,3 +67,13 @@
 
 # 7.单点登录如何实现
 
+![image](https://github.com/user-attachments/assets/ab71eb62-c4b7-4ebd-990c-7f8600468642)
+
+![image](https://github.com/user-attachments/assets/6a7f36f0-018c-4c86-9122-a1aba7af8896)
+
+![image](https://github.com/user-attachments/assets/cba2b9e4-a8e9-4d18-810f-d0588d281e88)
+
+---
+
+# 8.权限认证是如何实现的
+
