@@ -80,3 +80,21 @@
 ![image](https://github.com/user-attachments/assets/23d6452f-5073-4c16-8cb3-4e23dee30a57)
 
 ![image](https://github.com/user-attachments/assets/30b87280-71fa-473d-ba53-7923cc5779c7)
+
+![image](https://github.com/user-attachments/assets/c717b1fb-f377-4ee9-9852-a1841f2ee3da)
+
+![image](https://github.com/user-attachments/assets/a61ebf00-af33-4cb0-a356-63165b92fb89)
+
+---
+
+# 9.控制上传数据的安全性
+
+![image](https://github.com/user-attachments/assets/c43cf2fb-d450-4975-a0e8-f49a3bc6018b)
+
+![image](https://github.com/user-attachments/assets/499cbfed-5f74-481c-8825-99df755d5e72)
+
+![image](https://github.com/user-attachments/assets/437a4414-8606-4a56-9d4d-64a408d20285)
+
+![image](https://github.com/user-attachments/assets/03ac94b9-2832-4323-864e-3a8752a8a05e)
+
+![image](https://github.com/user-attachments/assets/605e23f8-e73d-435d-bcd3-8283e462fe51)
