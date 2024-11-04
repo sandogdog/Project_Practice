@@ -77,3 +77,6 @@
 
 # 8.权限认证是如何实现的
 
+![image](https://github.com/user-attachments/assets/23d6452f-5073-4c16-8cb3-4e23dee30a57)
+
+![image](https://github.com/user-attachments/assets/30b87280-71fa-473d-ba53-7923cc5779c7)
